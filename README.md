@@ -1,16 +1,16 @@
 [![MasterHead](./banner.jfif)](https://github.com/nirvananiroomand)
 <h1 align="center">Hi 👋, I'm Nirvana Niroomand</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">A Computer Science Graduate</h3>
 <br><br>
 <img align="right" alt="Coding" width="150" src="./programmer.svg">
 
 
 
-- 🔭 I’m currently working on **Spotify clone app**
+- 🔭 I’m currently working on **NLP Projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Deep Learning and NLP**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Git**
+- 💬 Ask me about **Software Engineering, Artificial Intelligence, Web Development**
 
 - 📫 How to reach me **nirvana.niroomand@gmail.com**
 
